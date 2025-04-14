@@ -35,3 +35,16 @@ datetime
 
 pyaudio
 
+💡 Getting Started
+Clone the repository and run:
+
+bash
+Copy
+Edit
+python jarvis.py
+Make sure the following dependencies are installed:
+
+bash
+Copy
+Edit
+pip install pyttsx3 speechrecognition wikipedia pyaudio
