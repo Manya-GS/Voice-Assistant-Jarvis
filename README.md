@@ -44,3 +44,4 @@ pyaudio
 1. Make sure the following libraries are installed:
    ```bash
    pip install pyttsx3 speechrecognition wikipedia pyaudio
+To exit the code make sure u will say have a nice day to exit out of the loop.
