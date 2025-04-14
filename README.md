@@ -1,24 +1,37 @@
-# Voice Assistant - Jarvis 🧠🎙️
+Jarvis - A Voice-Controlled Assistant
+Jarvis is a lightweight, personal voice assistant built with Python. It listens to your commands and performs tasks such as:
 
-This is a simple voice assistant created using Python. It can perform tasks like:
+🎙️ Capturing your voice input
+📖 Searching content from Wikipedia
+🌐 Opening popular websites (YouTube, Google, Stack Overflow)
+⏰ Telling the current time
+💬 Responding with spoken output
 
-- Greeting the user based on the time of day
-- Listening to voice commands via microphone
-- Searching Wikipedia and speaking results
-- Opening websites (YouTube, Google, Stack Overflow)
-- Telling the current time
+This project demonstrates how you can integrate pyttsx3, speech_recognition, and wikipedia libraries to build an interactive assistant that works completely offline and is easy to expand.
 
-## 🔧 Technologies Used
+🚀 Features
+🔊 Text-to-Speech (TTS) using pyttsx3
 
-- Python
-- pyttsx3 (Text-to-speech)
-- speech_recognition (Speech to text)
-- Wikipedia API
-- Webbrowser module
-- datetime
+🎤 Speech Recognition from microphone input
 
-## 🚀 How to Run
+📚 Wikipedia summaries for voice queries
 
-1. Make sure the following libraries are installed:
-   ```bash
-   pip install pyttsx3 speechrecognition wikipedia pyaudio
+🌍 Web automation to open sites by voice
+
+⌚ Time announcements
+
+🛠️ Technologies Used
+Python 3
+
+pyttsx3
+
+speech_recognition
+
+wikipedia
+
+webbrowser
+
+datetime
+
+pyaudio
+
